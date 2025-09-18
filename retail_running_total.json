@@ -1,0 +1,1527 @@
+[
+  {
+    "SaleDate": "2010-12-01",
+    "ItemsSold": "26814",
+    "RunningTotal": "26814"
+  },
+  {
+    "SaleDate": "2010-12-02",
+    "ItemsSold": "21023",
+    "RunningTotal": "47837"
+  },
+  {
+    "SaleDate": "2010-12-03",
+    "ItemsSold": "14830",
+    "RunningTotal": "62667"
+  },
+  {
+    "SaleDate": "2010-12-05",
+    "ItemsSold": "16395",
+    "RunningTotal": "79062"
+  },
+  {
+    "SaleDate": "2010-12-06",
+    "ItemsSold": "21419",
+    "RunningTotal": "100481"
+  },
+  {
+    "SaleDate": "2010-12-07",
+    "ItemsSold": "24995",
+    "RunningTotal": "125476"
+  },
+  {
+    "SaleDate": "2010-12-08",
+    "ItemsSold": "22741",
+    "RunningTotal": "148217"
+  },
+  {
+    "SaleDate": "2010-12-09",
+    "ItemsSold": "18431",
+    "RunningTotal": "166648"
+  },
+  {
+    "SaleDate": "2010-12-10",
+    "ItemsSold": "20297",
+    "RunningTotal": "186945"
+  },
+  {
+    "SaleDate": "2010-12-12",
+    "ItemsSold": "10565",
+    "RunningTotal": "197510"
+  },
+  {
+    "SaleDate": "2010-12-13",
+    "ItemsSold": "17623",
+    "RunningTotal": "215133"
+  },
+  {
+    "SaleDate": "2010-12-14",
+    "ItemsSold": "20098",
+    "RunningTotal": "235231"
+  },
+  {
+    "SaleDate": "2010-12-15",
+    "ItemsSold": "18229",
+    "RunningTotal": "253460"
+  },
+  {
+    "SaleDate": "2010-12-16",
+    "ItemsSold": "29632",
+    "RunningTotal": "283092"
+  },
+  {
+    "SaleDate": "2010-12-17",
+    "ItemsSold": "16069",
+    "RunningTotal": "299161"
+  },
+  {
+    "SaleDate": "2010-12-19",
+    "ItemsSold": "3795",
+    "RunningTotal": "302956"
+  },
+  {
+    "SaleDate": "2010-12-20",
+    "ItemsSold": "14965",
+    "RunningTotal": "317921"
+  },
+  {
+    "SaleDate": "2010-12-21",
+    "ItemsSold": "15467",
+    "RunningTotal": "333388"
+  },
+  {
+    "SaleDate": "2010-12-22",
+    "ItemsSold": "3192",
+    "RunningTotal": "336580"
+  },
+  {
+    "SaleDate": "2010-12-23",
+    "ItemsSold": "5648",
+    "RunningTotal": "342228"
+  },
+  {
+    "SaleDate": "2011-01-04",
+    "ItemsSold": "7939",
+    "RunningTotal": "350167"
+  },
+  {
+    "SaleDate": "2011-01-05",
+    "ItemsSold": "18435",
+    "RunningTotal": "368602"
+  },
+  {
+    "SaleDate": "2011-01-06",
+    "ItemsSold": "22461",
+    "RunningTotal": "391063"
+  },
+  {
+    "SaleDate": "2011-01-07",
+    "ItemsSold": "16475",
+    "RunningTotal": "407538"
+  },
+  {
+    "SaleDate": "2011-01-09",
+    "ItemsSold": "8181",
+    "RunningTotal": "415719"
+  },
+  {
+    "SaleDate": "2011-01-10",
+    "ItemsSold": "9014",
+    "RunningTotal": "424733"
+  },
+  {
+    "SaleDate": "2011-01-11",
+    "ItemsSold": "29093",
+    "RunningTotal": "453826"
+  },
+  {
+    "SaleDate": "2011-01-12",
+    "ItemsSold": "10133",
+    "RunningTotal": "463959"
+  },
+  {
+    "SaleDate": "2011-01-13",
+    "ItemsSold": "10114",
+    "RunningTotal": "474073"
+  },
+  {
+    "SaleDate": "2011-01-14",
+    "ItemsSold": "23091",
+    "RunningTotal": "497164"
+  },
+  {
+    "SaleDate": "2011-01-16",
+    "ItemsSold": "4181",
+    "RunningTotal": "501345"
+  },
+  {
+    "SaleDate": "2011-01-17",
+    "ItemsSold": "13345",
+    "RunningTotal": "514690"
+  },
+  {
+    "SaleDate": "2011-01-18",
+    "ItemsSold": "8664",
+    "RunningTotal": "523354"
+  },
+  {
+    "SaleDate": "2011-01-19",
+    "ItemsSold": "17108",
+    "RunningTotal": "540462"
+  },
+  {
+    "SaleDate": "2011-01-20",
+    "ItemsSold": "8720",
+    "RunningTotal": "549182"
+  },
+  {
+    "SaleDate": "2011-01-21",
+    "ItemsSold": "14938",
+    "RunningTotal": "564120"
+  },
+  {
+    "SaleDate": "2011-01-23",
+    "ItemsSold": "5194",
+    "RunningTotal": "569314"
+  },
+  {
+    "SaleDate": "2011-01-24",
+    "ItemsSold": "11910",
+    "RunningTotal": "581224"
+  },
+  {
+    "SaleDate": "2011-01-25",
+    "ItemsSold": "14793",
+    "RunningTotal": "596017"
+  },
+  {
+    "SaleDate": "2011-01-26",
+    "ItemsSold": "10854",
+    "RunningTotal": "606871"
+  },
+  {
+    "SaleDate": "2011-01-27",
+    "ItemsSold": "10974",
+    "RunningTotal": "617845"
+  },
+  {
+    "SaleDate": "2011-01-28",
+    "ItemsSold": "17414",
+    "RunningTotal": "635259"
+  },
+  {
+    "SaleDate": "2011-01-30",
+    "ItemsSold": "3367",
+    "RunningTotal": "638626"
+  },
+  {
+    "SaleDate": "2011-01-31",
+    "ItemsSold": "12568",
+    "RunningTotal": "651194"
+  },
+  {
+    "SaleDate": "2011-02-01",
+    "ItemsSold": "15340",
+    "RunningTotal": "666534"
+  },
+  {
+    "SaleDate": "2011-02-02",
+    "ItemsSold": "9355",
+    "RunningTotal": "675889"
+  },
+  {
+    "SaleDate": "2011-02-03",
+    "ItemsSold": "16935",
+    "RunningTotal": "692824"
+  },
+  {
+    "SaleDate": "2011-02-04",
+    "ItemsSold": "11367",
+    "RunningTotal": "704191"
+  },
+  {
+    "SaleDate": "2011-02-06",
+    "ItemsSold": "2048",
+    "RunningTotal": "706239"
+  },
+  {
+    "SaleDate": "2011-02-07",
+    "ItemsSold": "8679",
+    "RunningTotal": "714918"
+  },
+  {
+    "SaleDate": "2011-02-08",
+    "ItemsSold": "10201",
+    "RunningTotal": "725119"
+  },
+  {
+    "SaleDate": "2011-02-09",
+    "ItemsSold": "7148",
+    "RunningTotal": "732267"
+  },
+  {
+    "SaleDate": "2011-02-10",
+    "ItemsSold": "11447",
+    "RunningTotal": "743714"
+  },
+  {
+    "SaleDate": "2011-02-11",
+    "ItemsSold": "9831",
+    "RunningTotal": "753545"
+  },
+  {
+    "SaleDate": "2011-02-13",
+    "ItemsSold": "2715",
+    "RunningTotal": "756260"
+  },
+  {
+    "SaleDate": "2011-02-14",
+    "ItemsSold": "13469",
+    "RunningTotal": "769729"
+  },
+  {
+    "SaleDate": "2011-02-15",
+    "ItemsSold": "22533",
+    "RunningTotal": "792262"
+  },
+  {
+    "SaleDate": "2011-02-16",
+    "ItemsSold": "15990",
+    "RunningTotal": "808252"
+  },
+  {
+    "SaleDate": "2011-02-17",
+    "ItemsSold": "14544",
+    "RunningTotal": "822796"
+  },
+  {
+    "SaleDate": "2011-02-18",
+    "ItemsSold": "8165",
+    "RunningTotal": "830961"
+  },
+  {
+    "SaleDate": "2011-02-20",
+    "ItemsSold": "5346",
+    "RunningTotal": "836307"
+  },
+  {
+    "SaleDate": "2011-02-21",
+    "ItemsSold": "21456",
+    "RunningTotal": "857763"
+  },
+  {
+    "SaleDate": "2011-02-22",
+    "ItemsSold": "21448",
+    "RunningTotal": "879211"
+  },
+  {
+    "SaleDate": "2011-02-23",
+    "ItemsSold": "13622",
+    "RunningTotal": "892833"
+  },
+  {
+    "SaleDate": "2011-02-24",
+    "ItemsSold": "11724",
+    "RunningTotal": "904557"
+  },
+  {
+    "SaleDate": "2011-02-25",
+    "ItemsSold": "9888",
+    "RunningTotal": "914445"
+  },
+  {
+    "SaleDate": "2011-02-27",
+    "ItemsSold": "4858",
+    "RunningTotal": "919303"
+  },
+  {
+    "SaleDate": "2011-02-28",
+    "ItemsSold": "9880",
+    "RunningTotal": "929183"
+  },
+  {
+    "SaleDate": "2011-03-01",
+    "ItemsSold": "12120",
+    "RunningTotal": "941303"
+  },
+  {
+    "SaleDate": "2011-03-02",
+    "ItemsSold": "8495",
+    "RunningTotal": "949798"
+  },
+  {
+    "SaleDate": "2011-03-03",
+    "ItemsSold": "18414",
+    "RunningTotal": "968212"
+  },
+  {
+    "SaleDate": "2011-03-04",
+    "ItemsSold": "13332",
+    "RunningTotal": "981544"
+  },
+  {
+    "SaleDate": "2011-03-06",
+    "ItemsSold": "4989",
+    "RunningTotal": "986533"
+  },
+  {
+    "SaleDate": "2011-03-07",
+    "ItemsSold": "13715",
+    "RunningTotal": "1000248"
+  },
+  {
+    "SaleDate": "2011-03-08",
+    "ItemsSold": "6918",
+    "RunningTotal": "1007166"
+  },
+  {
+    "SaleDate": "2011-03-09",
+    "ItemsSold": "4458",
+    "RunningTotal": "1011624"
+  },
+  {
+    "SaleDate": "2011-03-10",
+    "ItemsSold": "15767",
+    "RunningTotal": "1027391"
+  },
+  {
+    "SaleDate": "2011-03-11",
+    "ItemsSold": "10465",
+    "RunningTotal": "1037856"
+  },
+  {
+    "SaleDate": "2011-03-13",
+    "ItemsSold": "2741",
+    "RunningTotal": "1040597"
+  },
+  {
+    "SaleDate": "2011-03-14",
+    "ItemsSold": "16717",
+    "RunningTotal": "1057314"
+  },
+  {
+    "SaleDate": "2011-03-15",
+    "ItemsSold": "8918",
+    "RunningTotal": "1066232"
+  },
+  {
+    "SaleDate": "2011-03-16",
+    "ItemsSold": "12583",
+    "RunningTotal": "1078815"
+  },
+  {
+    "SaleDate": "2011-03-17",
+    "ItemsSold": "20589",
+    "RunningTotal": "1099404"
+  },
+  {
+    "SaleDate": "2011-03-18",
+    "ItemsSold": "13756",
+    "RunningTotal": "1113160"
+  },
+  {
+    "SaleDate": "2011-03-20",
+    "ItemsSold": "14165",
+    "RunningTotal": "1127325"
+  },
+  {
+    "SaleDate": "2011-03-21",
+    "ItemsSold": "10201",
+    "RunningTotal": "1137526"
+  },
+  {
+    "SaleDate": "2011-03-22",
+    "ItemsSold": "14884",
+    "RunningTotal": "1152410"
+  },
+  {
+    "SaleDate": "2011-03-23",
+    "ItemsSold": "11283",
+    "RunningTotal": "1163693"
+  },
+  {
+    "SaleDate": "2011-03-24",
+    "ItemsSold": "18157",
+    "RunningTotal": "1181850"
+  },
+  {
+    "SaleDate": "2011-03-25",
+    "ItemsSold": "13303",
+    "RunningTotal": "1195153"
+  },
+  {
+    "SaleDate": "2011-03-27",
+    "ItemsSold": "4408",
+    "RunningTotal": "1199561"
+  },
+  {
+    "SaleDate": "2011-03-28",
+    "ItemsSold": "13125",
+    "RunningTotal": "1212686"
+  },
+  {
+    "SaleDate": "2011-03-29",
+    "ItemsSold": "32413",
+    "RunningTotal": "1245099"
+  },
+  {
+    "SaleDate": "2011-03-30",
+    "ItemsSold": "19719",
+    "RunningTotal": "1264818"
+  },
+  {
+    "SaleDate": "2011-03-31",
+    "ItemsSold": "16237",
+    "RunningTotal": "1281055"
+  },
+  {
+    "SaleDate": "2011-04-01",
+    "ItemsSold": "17374",
+    "RunningTotal": "1298429"
+  },
+  {
+    "SaleDate": "2011-04-03",
+    "ItemsSold": "5660",
+    "RunningTotal": "1304089"
+  },
+  {
+    "SaleDate": "2011-04-04",
+    "ItemsSold": "13045",
+    "RunningTotal": "1317134"
+  },
+  {
+    "SaleDate": "2011-04-05",
+    "ItemsSold": "14763",
+    "RunningTotal": "1331897"
+  },
+  {
+    "SaleDate": "2011-04-06",
+    "ItemsSold": "8576",
+    "RunningTotal": "1340473"
+  },
+  {
+    "SaleDate": "2011-04-07",
+    "ItemsSold": "10356",
+    "RunningTotal": "1350829"
+  },
+  {
+    "SaleDate": "2011-04-08",
+    "ItemsSold": "9230",
+    "RunningTotal": "1360059"
+  },
+  {
+    "SaleDate": "2011-04-10",
+    "ItemsSold": "5526",
+    "RunningTotal": "1365585"
+  },
+  {
+    "SaleDate": "2011-04-11",
+    "ItemsSold": "13499",
+    "RunningTotal": "1379084"
+  },
+  {
+    "SaleDate": "2011-04-12",
+    "ItemsSold": "15121",
+    "RunningTotal": "1394205"
+  },
+  {
+    "SaleDate": "2011-04-13",
+    "ItemsSold": "18100",
+    "RunningTotal": "1412305"
+  },
+  {
+    "SaleDate": "2011-04-14",
+    "ItemsSold": "17401",
+    "RunningTotal": "1429706"
+  },
+  {
+    "SaleDate": "2011-04-15",
+    "ItemsSold": "12726",
+    "RunningTotal": "1442432"
+  },
+  {
+    "SaleDate": "2011-04-17",
+    "ItemsSold": "8181",
+    "RunningTotal": "1450613"
+  },
+  {
+    "SaleDate": "2011-04-18",
+    "ItemsSold": "22246",
+    "RunningTotal": "1472859"
+  },
+  {
+    "SaleDate": "2011-04-19",
+    "ItemsSold": "14383",
+    "RunningTotal": "1487242"
+  },
+  {
+    "SaleDate": "2011-04-20",
+    "ItemsSold": "17973",
+    "RunningTotal": "1505215"
+  },
+  {
+    "SaleDate": "2011-04-21",
+    "ItemsSold": "18253",
+    "RunningTotal": "1523468"
+  },
+  {
+    "SaleDate": "2011-04-26",
+    "ItemsSold": "15665",
+    "RunningTotal": "1539133"
+  },
+  {
+    "SaleDate": "2011-04-27",
+    "ItemsSold": "17836",
+    "RunningTotal": "1556969"
+  },
+  {
+    "SaleDate": "2011-04-28",
+    "ItemsSold": "13184",
+    "RunningTotal": "1570153"
+  },
+  {
+    "SaleDate": "2011-05-01",
+    "ItemsSold": "3814",
+    "RunningTotal": "1573967"
+  },
+  {
+    "SaleDate": "2011-05-03",
+    "ItemsSold": "11867",
+    "RunningTotal": "1585834"
+  },
+  {
+    "SaleDate": "2011-05-04",
+    "ItemsSold": "15765",
+    "RunningTotal": "1601599"
+  },
+  {
+    "SaleDate": "2011-05-05",
+    "ItemsSold": "17331",
+    "RunningTotal": "1618930"
+  },
+  {
+    "SaleDate": "2011-05-06",
+    "ItemsSold": "19632",
+    "RunningTotal": "1638562"
+  },
+  {
+    "SaleDate": "2011-05-08",
+    "ItemsSold": "10692",
+    "RunningTotal": "1649254"
+  },
+  {
+    "SaleDate": "2011-05-09",
+    "ItemsSold": "12951",
+    "RunningTotal": "1662205"
+  },
+  {
+    "SaleDate": "2011-05-10",
+    "ItemsSold": "17719",
+    "RunningTotal": "1679924"
+  },
+  {
+    "SaleDate": "2011-05-11",
+    "ItemsSold": "16233",
+    "RunningTotal": "1696157"
+  },
+  {
+    "SaleDate": "2011-05-12",
+    "ItemsSold": "36141",
+    "RunningTotal": "1732298"
+  },
+  {
+    "SaleDate": "2011-05-13",
+    "ItemsSold": "15074",
+    "RunningTotal": "1747372"
+  },
+  {
+    "SaleDate": "2011-05-15",
+    "ItemsSold": "4898",
+    "RunningTotal": "1752270"
+  },
+  {
+    "SaleDate": "2011-05-16",
+    "ItemsSold": "14484",
+    "RunningTotal": "1766754"
+  },
+  {
+    "SaleDate": "2011-05-17",
+    "ItemsSold": "26886",
+    "RunningTotal": "1793640"
+  },
+  {
+    "SaleDate": "2011-05-18",
+    "ItemsSold": "18785",
+    "RunningTotal": "1812425"
+  },
+  {
+    "SaleDate": "2011-05-19",
+    "ItemsSold": "17783",
+    "RunningTotal": "1830208"
+  },
+  {
+    "SaleDate": "2011-05-20",
+    "ItemsSold": "15154",
+    "RunningTotal": "1845362"
+  },
+  {
+    "SaleDate": "2011-05-22",
+    "ItemsSold": "12736",
+    "RunningTotal": "1858098"
+  },
+  {
+    "SaleDate": "2011-05-23",
+    "ItemsSold": "16443",
+    "RunningTotal": "1874541"
+  },
+  {
+    "SaleDate": "2011-05-24",
+    "ItemsSold": "15629",
+    "RunningTotal": "1890170"
+  },
+  {
+    "SaleDate": "2011-05-25",
+    "ItemsSold": "11839",
+    "RunningTotal": "1902009"
+  },
+  {
+    "SaleDate": "2011-05-26",
+    "ItemsSold": "16192",
+    "RunningTotal": "1918201"
+  },
+  {
+    "SaleDate": "2011-05-27",
+    "ItemsSold": "16713",
+    "RunningTotal": "1934914"
+  },
+  {
+    "SaleDate": "2011-05-29",
+    "ItemsSold": "4084",
+    "RunningTotal": "1938998"
+  },
+  {
+    "SaleDate": "2011-05-31",
+    "ItemsSold": "11546",
+    "RunningTotal": "1950544"
+  },
+  {
+    "SaleDate": "2011-06-01",
+    "ItemsSold": "10880",
+    "RunningTotal": "1961424"
+  },
+  {
+    "SaleDate": "2011-06-02",
+    "ItemsSold": "13838",
+    "RunningTotal": "1975262"
+  },
+  {
+    "SaleDate": "2011-06-03",
+    "ItemsSold": "7557",
+    "RunningTotal": "1982819"
+  },
+  {
+    "SaleDate": "2011-06-05",
+    "ItemsSold": "13470",
+    "RunningTotal": "1996289"
+  },
+  {
+    "SaleDate": "2011-06-06",
+    "ItemsSold": "9167",
+    "RunningTotal": "2005456"
+  },
+  {
+    "SaleDate": "2011-06-07",
+    "ItemsSold": "18462",
+    "RunningTotal": "2023918"
+  },
+  {
+    "SaleDate": "2011-06-08",
+    "ItemsSold": "20784",
+    "RunningTotal": "2044702"
+  },
+  {
+    "SaleDate": "2011-06-09",
+    "ItemsSold": "30275",
+    "RunningTotal": "2074977"
+  },
+  {
+    "SaleDate": "2011-06-10",
+    "ItemsSold": "8134",
+    "RunningTotal": "2083111"
+  },
+  {
+    "SaleDate": "2011-06-12",
+    "ItemsSold": "9482",
+    "RunningTotal": "2092593"
+  },
+  {
+    "SaleDate": "2011-06-13",
+    "ItemsSold": "9387",
+    "RunningTotal": "2101980"
+  },
+  {
+    "SaleDate": "2011-06-14",
+    "ItemsSold": "-13752",
+    "RunningTotal": "2088228"
+  },
+  {
+    "SaleDate": "2011-06-15",
+    "ItemsSold": "29978",
+    "RunningTotal": "2118206"
+  },
+  {
+    "SaleDate": "2011-06-16",
+    "ItemsSold": "18178",
+    "RunningTotal": "2136384"
+  },
+  {
+    "SaleDate": "2011-06-17",
+    "ItemsSold": "11678",
+    "RunningTotal": "2148062"
+  },
+  {
+    "SaleDate": "2011-06-19",
+    "ItemsSold": "15060",
+    "RunningTotal": "2163122"
+  },
+  {
+    "SaleDate": "2011-06-20",
+    "ItemsSold": "15518",
+    "RunningTotal": "2178640"
+  },
+  {
+    "SaleDate": "2011-06-21",
+    "ItemsSold": "7846",
+    "RunningTotal": "2186486"
+  },
+  {
+    "SaleDate": "2011-06-22",
+    "ItemsSold": "15769",
+    "RunningTotal": "2202255"
+  },
+  {
+    "SaleDate": "2011-06-23",
+    "ItemsSold": "14272",
+    "RunningTotal": "2216527"
+  },
+  {
+    "SaleDate": "2011-06-24",
+    "ItemsSold": "9827",
+    "RunningTotal": "2226354"
+  },
+  {
+    "SaleDate": "2011-06-26",
+    "ItemsSold": "3495",
+    "RunningTotal": "2229849"
+  },
+  {
+    "SaleDate": "2011-06-27",
+    "ItemsSold": "9835",
+    "RunningTotal": "2239684"
+  },
+  {
+    "SaleDate": "2011-06-28",
+    "ItemsSold": "19642",
+    "RunningTotal": "2259326"
+  },
+  {
+    "SaleDate": "2011-06-29",
+    "ItemsSold": "11544",
+    "RunningTotal": "2270870"
+  },
+  {
+    "SaleDate": "2011-06-30",
+    "ItemsSold": "21297",
+    "RunningTotal": "2292167"
+  },
+  {
+    "SaleDate": "2011-07-01",
+    "ItemsSold": "7358",
+    "RunningTotal": "2299525"
+  },
+  {
+    "SaleDate": "2011-07-03",
+    "ItemsSold": "3106",
+    "RunningTotal": "2302631"
+  },
+  {
+    "SaleDate": "2011-07-04",
+    "ItemsSold": "15682",
+    "RunningTotal": "2318313"
+  },
+  {
+    "SaleDate": "2011-07-05",
+    "ItemsSold": "21696",
+    "RunningTotal": "2340009"
+  },
+  {
+    "SaleDate": "2011-07-06",
+    "ItemsSold": "19275",
+    "RunningTotal": "2359284"
+  },
+  {
+    "SaleDate": "2011-07-07",
+    "ItemsSold": "18956",
+    "RunningTotal": "2378240"
+  },
+  {
+    "SaleDate": "2011-07-08",
+    "ItemsSold": "11681",
+    "RunningTotal": "2389921"
+  },
+  {
+    "SaleDate": "2011-07-10",
+    "ItemsSold": "4214",
+    "RunningTotal": "2394135"
+  },
+  {
+    "SaleDate": "2011-07-11",
+    "ItemsSold": "14989",
+    "RunningTotal": "2409124"
+  },
+  {
+    "SaleDate": "2011-07-12",
+    "ItemsSold": "13760",
+    "RunningTotal": "2422884"
+  },
+  {
+    "SaleDate": "2011-07-13",
+    "ItemsSold": "16206",
+    "RunningTotal": "2439090"
+  },
+  {
+    "SaleDate": "2011-07-14",
+    "ItemsSold": "16904",
+    "RunningTotal": "2455994"
+  },
+  {
+    "SaleDate": "2011-07-15",
+    "ItemsSold": "6841",
+    "RunningTotal": "2462835"
+  },
+  {
+    "SaleDate": "2011-07-17",
+    "ItemsSold": "11042",
+    "RunningTotal": "2473877"
+  },
+  {
+    "SaleDate": "2011-07-18",
+    "ItemsSold": "14366",
+    "RunningTotal": "2488243"
+  },
+  {
+    "SaleDate": "2011-07-19",
+    "ItemsSold": "26287",
+    "RunningTotal": "2514530"
+  },
+  {
+    "SaleDate": "2011-07-20",
+    "ItemsSold": "16795",
+    "RunningTotal": "2531325"
+  },
+  {
+    "SaleDate": "2011-07-21",
+    "ItemsSold": "19747",
+    "RunningTotal": "2551072"
+  },
+  {
+    "SaleDate": "2011-07-22",
+    "ItemsSold": "10019",
+    "RunningTotal": "2561091"
+  },
+  {
+    "SaleDate": "2011-07-24",
+    "ItemsSold": "17271",
+    "RunningTotal": "2578362"
+  },
+  {
+    "SaleDate": "2011-07-25",
+    "ItemsSold": "15457",
+    "RunningTotal": "2593819"
+  },
+  {
+    "SaleDate": "2011-07-26",
+    "ItemsSold": "13560",
+    "RunningTotal": "2607379"
+  },
+  {
+    "SaleDate": "2011-07-27",
+    "ItemsSold": "13859",
+    "RunningTotal": "2621238"
+  },
+  {
+    "SaleDate": "2011-07-28",
+    "ItemsSold": "29700",
+    "RunningTotal": "2650938"
+  },
+  {
+    "SaleDate": "2011-07-29",
+    "ItemsSold": "11472",
+    "RunningTotal": "2662410"
+  },
+  {
+    "SaleDate": "2011-07-31",
+    "ItemsSold": "20873",
+    "RunningTotal": "2683283"
+  },
+  {
+    "SaleDate": "2011-08-01",
+    "ItemsSold": "9947",
+    "RunningTotal": "2693230"
+  },
+  {
+    "SaleDate": "2011-08-02",
+    "ItemsSold": "15624",
+    "RunningTotal": "2708854"
+  },
+  {
+    "SaleDate": "2011-08-03",
+    "ItemsSold": "15660",
+    "RunningTotal": "2724514"
+  },
+  {
+    "SaleDate": "2011-08-04",
+    "ItemsSold": "37992",
+    "RunningTotal": "2762506"
+  },
+  {
+    "SaleDate": "2011-08-05",
+    "ItemsSold": "12200",
+    "RunningTotal": "2774706"
+  },
+  {
+    "SaleDate": "2011-08-07",
+    "ItemsSold": "5080",
+    "RunningTotal": "2779786"
+  },
+  {
+    "SaleDate": "2011-08-08",
+    "ItemsSold": "13104",
+    "RunningTotal": "2792890"
+  },
+  {
+    "SaleDate": "2011-08-09",
+    "ItemsSold": "15605",
+    "RunningTotal": "2808495"
+  },
+  {
+    "SaleDate": "2011-08-10",
+    "ItemsSold": "14228",
+    "RunningTotal": "2822723"
+  },
+  {
+    "SaleDate": "2011-08-11",
+    "ItemsSold": "40191",
+    "RunningTotal": "2862914"
+  },
+  {
+    "SaleDate": "2011-08-12",
+    "ItemsSold": "11962",
+    "RunningTotal": "2874876"
+  },
+  {
+    "SaleDate": "2011-08-14",
+    "ItemsSold": "3135",
+    "RunningTotal": "2878011"
+  },
+  {
+    "SaleDate": "2011-08-15",
+    "ItemsSold": "10141",
+    "RunningTotal": "2888152"
+  },
+  {
+    "SaleDate": "2011-08-16",
+    "ItemsSold": "11213",
+    "RunningTotal": "2899365"
+  },
+  {
+    "SaleDate": "2011-08-17",
+    "ItemsSold": "23567",
+    "RunningTotal": "2922932"
+  },
+  {
+    "SaleDate": "2011-08-18",
+    "ItemsSold": "33122",
+    "RunningTotal": "2956054"
+  },
+  {
+    "SaleDate": "2011-08-19",
+    "ItemsSold": "10609",
+    "RunningTotal": "2966663"
+  },
+  {
+    "SaleDate": "2011-08-21",
+    "ItemsSold": "8164",
+    "RunningTotal": "2974827"
+  },
+  {
+    "SaleDate": "2011-08-22",
+    "ItemsSold": "15387",
+    "RunningTotal": "2990214"
+  },
+  {
+    "SaleDate": "2011-08-23",
+    "ItemsSold": "15112",
+    "RunningTotal": "3005326"
+  },
+  {
+    "SaleDate": "2011-08-24",
+    "ItemsSold": "29288",
+    "RunningTotal": "3034614"
+  },
+  {
+    "SaleDate": "2011-08-25",
+    "ItemsSold": "13184",
+    "RunningTotal": "3047798"
+  },
+  {
+    "SaleDate": "2011-08-26",
+    "ItemsSold": "17756",
+    "RunningTotal": "3065554"
+  },
+  {
+    "SaleDate": "2011-08-28",
+    "ItemsSold": "6770",
+    "RunningTotal": "3072324"
+  },
+  {
+    "SaleDate": "2011-08-30",
+    "ItemsSold": "10182",
+    "RunningTotal": "3082506"
+  },
+  {
+    "SaleDate": "2011-08-31",
+    "ItemsSold": "6976",
+    "RunningTotal": "3089482"
+  },
+  {
+    "SaleDate": "2011-09-01",
+    "ItemsSold": "27829",
+    "RunningTotal": "3117311"
+  },
+  {
+    "SaleDate": "2011-09-02",
+    "ItemsSold": "10725",
+    "RunningTotal": "3128036"
+  },
+  {
+    "SaleDate": "2011-09-04",
+    "ItemsSold": "10941",
+    "RunningTotal": "3138977"
+  },
+  {
+    "SaleDate": "2011-09-05",
+    "ItemsSold": "23484",
+    "RunningTotal": "3162461"
+  },
+  {
+    "SaleDate": "2011-09-06",
+    "ItemsSold": "14959",
+    "RunningTotal": "3177420"
+  },
+  {
+    "SaleDate": "2011-09-07",
+    "ItemsSold": "16211",
+    "RunningTotal": "3193631"
+  },
+  {
+    "SaleDate": "2011-09-08",
+    "ItemsSold": "16944",
+    "RunningTotal": "3210575"
+  },
+  {
+    "SaleDate": "2011-09-09",
+    "ItemsSold": "16100",
+    "RunningTotal": "3226675"
+  },
+  {
+    "SaleDate": "2011-09-11",
+    "ItemsSold": "21122",
+    "RunningTotal": "3247797"
+  },
+  {
+    "SaleDate": "2011-09-12",
+    "ItemsSold": "17086",
+    "RunningTotal": "3264883"
+  },
+  {
+    "SaleDate": "2011-09-13",
+    "ItemsSold": "36904",
+    "RunningTotal": "3301787"
+  },
+  {
+    "SaleDate": "2011-09-14",
+    "ItemsSold": "9590",
+    "RunningTotal": "3311377"
+  },
+  {
+    "SaleDate": "2011-09-15",
+    "ItemsSold": "29181",
+    "RunningTotal": "3340558"
+  },
+  {
+    "SaleDate": "2011-09-16",
+    "ItemsSold": "15166",
+    "RunningTotal": "3355724"
+  },
+  {
+    "SaleDate": "2011-09-18",
+    "ItemsSold": "8966",
+    "RunningTotal": "3364690"
+  },
+  {
+    "SaleDate": "2011-09-19",
+    "ItemsSold": "28973",
+    "RunningTotal": "3393663"
+  },
+  {
+    "SaleDate": "2011-09-20",
+    "ItemsSold": "43702",
+    "RunningTotal": "3437365"
+  },
+  {
+    "SaleDate": "2011-09-21",
+    "ItemsSold": "19581",
+    "RunningTotal": "3456946"
+  },
+  {
+    "SaleDate": "2011-09-22",
+    "ItemsSold": "32263",
+    "RunningTotal": "3489209"
+  },
+  {
+    "SaleDate": "2011-09-23",
+    "ItemsSold": "21222",
+    "RunningTotal": "3510431"
+  },
+  {
+    "SaleDate": "2011-09-25",
+    "ItemsSold": "19329",
+    "RunningTotal": "3529760"
+  },
+  {
+    "SaleDate": "2011-09-26",
+    "ItemsSold": "14948",
+    "RunningTotal": "3544708"
+  },
+  {
+    "SaleDate": "2011-09-27",
+    "ItemsSold": "21060",
+    "RunningTotal": "3565768"
+  },
+  {
+    "SaleDate": "2011-09-28",
+    "ItemsSold": "25157",
+    "RunningTotal": "3590925"
+  },
+  {
+    "SaleDate": "2011-09-29",
+    "ItemsSold": "26365",
+    "RunningTotal": "3617290"
+  },
+  {
+    "SaleDate": "2011-09-30",
+    "ItemsSold": "22009",
+    "RunningTotal": "3639299"
+  },
+  {
+    "SaleDate": "2011-10-02",
+    "ItemsSold": "8380",
+    "RunningTotal": "3647679"
+  },
+  {
+    "SaleDate": "2011-10-03",
+    "ItemsSold": "24652",
+    "RunningTotal": "3672331"
+  },
+  {
+    "SaleDate": "2011-10-04",
+    "ItemsSold": "18689",
+    "RunningTotal": "3691020"
+  },
+  {
+    "SaleDate": "2011-10-05",
+    "ItemsSold": "46161",
+    "RunningTotal": "3737181"
+  },
+  {
+    "SaleDate": "2011-10-06",
+    "ItemsSold": "31268",
+    "RunningTotal": "3768449"
+  },
+  {
+    "SaleDate": "2011-10-07",
+    "ItemsSold": "30431",
+    "RunningTotal": "3798880"
+  },
+  {
+    "SaleDate": "2011-10-09",
+    "ItemsSold": "7275",
+    "RunningTotal": "3806155"
+  },
+  {
+    "SaleDate": "2011-10-10",
+    "ItemsSold": "25405",
+    "RunningTotal": "3831560"
+  },
+  {
+    "SaleDate": "2011-10-11",
+    "ItemsSold": "20091",
+    "RunningTotal": "3851651"
+  },
+  {
+    "SaleDate": "2011-10-12",
+    "ItemsSold": "15525",
+    "RunningTotal": "3867176"
+  },
+  {
+    "SaleDate": "2011-10-13",
+    "ItemsSold": "17859",
+    "RunningTotal": "3885035"
+  },
+  {
+    "SaleDate": "2011-10-14",
+    "ItemsSold": "17475",
+    "RunningTotal": "3902510"
+  },
+  {
+    "SaleDate": "2011-10-16",
+    "ItemsSold": "8311",
+    "RunningTotal": "3910821"
+  },
+  {
+    "SaleDate": "2011-10-17",
+    "ItemsSold": "30214",
+    "RunningTotal": "3941035"
+  },
+  {
+    "SaleDate": "2011-10-18",
+    "ItemsSold": "28960",
+    "RunningTotal": "3969995"
+  },
+  {
+    "SaleDate": "2011-10-19",
+    "ItemsSold": "19039",
+    "RunningTotal": "3989034"
+  },
+  {
+    "SaleDate": "2011-10-20",
+    "ItemsSold": "40802",
+    "RunningTotal": "4029836"
+  },
+  {
+    "SaleDate": "2011-10-21",
+    "ItemsSold": "24728",
+    "RunningTotal": "4054564"
+  },
+  {
+    "SaleDate": "2011-10-23",
+    "ItemsSold": "7068",
+    "RunningTotal": "4061632"
+  },
+  {
+    "SaleDate": "2011-10-24",
+    "ItemsSold": "21514",
+    "RunningTotal": "4083146"
+  },
+  {
+    "SaleDate": "2011-10-25",
+    "ItemsSold": "24686",
+    "RunningTotal": "4107832"
+  },
+  {
+    "SaleDate": "2011-10-26",
+    "ItemsSold": "20865",
+    "RunningTotal": "4128697"
+  },
+  {
+    "SaleDate": "2011-10-27",
+    "ItemsSold": "32301",
+    "RunningTotal": "4160998"
+  },
+  {
+    "SaleDate": "2011-10-28",
+    "ItemsSold": "23845",
+    "RunningTotal": "4184843"
+  },
+  {
+    "SaleDate": "2011-10-30",
+    "ItemsSold": "20062",
+    "RunningTotal": "4204905"
+  },
+  {
+    "SaleDate": "2011-10-31",
+    "ItemsSold": "4926",
+    "RunningTotal": "4209831"
+  },
+  {
+    "SaleDate": "2011-11-01",
+    "ItemsSold": "16686",
+    "RunningTotal": "4226517"
+  },
+  {
+    "SaleDate": "2011-11-02",
+    "ItemsSold": "28319",
+    "RunningTotal": "4254836"
+  },
+  {
+    "SaleDate": "2011-11-03",
+    "ItemsSold": "34019",
+    "RunningTotal": "4288855"
+  },
+  {
+    "SaleDate": "2011-11-04",
+    "ItemsSold": "33546",
+    "RunningTotal": "4322401"
+  },
+  {
+    "SaleDate": "2011-11-06",
+    "ItemsSold": "23295",
+    "RunningTotal": "4345696"
+  },
+  {
+    "SaleDate": "2011-11-07",
+    "ItemsSold": "27689",
+    "RunningTotal": "4373385"
+  },
+  {
+    "SaleDate": "2011-11-08",
+    "ItemsSold": "26124",
+    "RunningTotal": "4399509"
+  },
+  {
+    "SaleDate": "2011-11-09",
+    "ItemsSold": "36238",
+    "RunningTotal": "4435747"
+  },
+  {
+    "SaleDate": "2011-11-10",
+    "ItemsSold": "38077",
+    "RunningTotal": "4473824"
+  },
+  {
+    "SaleDate": "2011-11-11",
+    "ItemsSold": "28513",
+    "RunningTotal": "4502337"
+  },
+  {
+    "SaleDate": "2011-11-13",
+    "ItemsSold": "20356",
+    "RunningTotal": "4522693"
+  },
+  {
+    "SaleDate": "2011-11-14",
+    "ItemsSold": "45959",
+    "RunningTotal": "4568652"
+  },
+  {
+    "SaleDate": "2011-11-15",
+    "ItemsSold": "30221",
+    "RunningTotal": "4598873"
+  },
+  {
+    "SaleDate": "2011-11-16",
+    "ItemsSold": "29353",
+    "RunningTotal": "4628226"
+  },
+  {
+    "SaleDate": "2011-11-17",
+    "ItemsSold": "30779",
+    "RunningTotal": "4659005"
+  },
+  {
+    "SaleDate": "2011-11-18",
+    "ItemsSold": "23535",
+    "RunningTotal": "4682540"
+  },
+  {
+    "SaleDate": "2011-11-20",
+    "ItemsSold": "19369",
+    "RunningTotal": "4701909"
+  },
+  {
+    "SaleDate": "2011-11-21",
+    "ItemsSold": "24004",
+    "RunningTotal": "4725913"
+  },
+  {
+    "SaleDate": "2011-11-22",
+    "ItemsSold": "35284",
+    "RunningTotal": "4761197"
+  },
+  {
+    "SaleDate": "2011-11-23",
+    "ItemsSold": "37350",
+    "RunningTotal": "4798547"
+  },
+  {
+    "SaleDate": "2011-11-24",
+    "ItemsSold": "23743",
+    "RunningTotal": "4822290"
+  },
+  {
+    "SaleDate": "2011-11-25",
+    "ItemsSold": "31026",
+    "RunningTotal": "4853316"
+  },
+  {
+    "SaleDate": "2011-11-27",
+    "ItemsSold": "11161",
+    "RunningTotal": "4864477"
+  },
+  {
+    "SaleDate": "2011-11-28",
+    "ItemsSold": "28647",
+    "RunningTotal": "4893124"
+  },
+  {
+    "SaleDate": "2011-11-29",
+    "ItemsSold": "30511",
+    "RunningTotal": "4923635"
+  },
+  {
+    "SaleDate": "2011-11-30",
+    "ItemsSold": "26482",
+    "RunningTotal": "4950117"
+  },
+  {
+    "SaleDate": "2011-12-01",
+    "ItemsSold": "26819",
+    "RunningTotal": "4976936"
+  },
+  {
+    "SaleDate": "2011-12-02",
+    "ItemsSold": "26952",
+    "RunningTotal": "5003888"
+  },
+  {
+    "SaleDate": "2011-12-04",
+    "ItemsSold": "12396",
+    "RunningTotal": "5016284"
+  },
+  {
+    "SaleDate": "2011-12-05",
+    "ItemsSold": "44119",
+    "RunningTotal": "5060403"
+  },
+  {
+    "SaleDate": "2011-12-06",
+    "ItemsSold": "29026",
+    "RunningTotal": "5089429"
+  },
+  {
+    "SaleDate": "2011-12-07",
+    "ItemsSold": "39612",
+    "RunningTotal": "5129041"
+  },
+  {
+    "SaleDate": "2011-12-08",
+    "ItemsSold": "34460",
+    "RunningTotal": "5163501"
+  },
+  {
+    "SaleDate": "2011-12-09",
+    "ItemsSold": "12949",
+    "RunningTotal": "5176450"
+  }
+]
